@@ -1,0 +1,11 @@
+{
+  "name": "ppp-mocha-framework",
+  "version": "0.0.2",
+  "main": "mocha.js",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^8.2.1"
+  },
+  "devDependencies": {
+  }
+}
